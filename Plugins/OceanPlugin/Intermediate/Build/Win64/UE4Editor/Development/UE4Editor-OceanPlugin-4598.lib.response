@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OceanPlugin-4598.dll"
+/IGNORE:4221
+/LIBPATH:"ThirdParty/PhysX/Lib/Win64/VS2015"
+/LIBPATH:"ThirdParty/PhysX/Lib/Win64/VS2015"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\Unreal\Boats\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\PCH.OceanPlugin.h.obj"
+"E:\Unreal\Boats\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
+"E:\Unreal\Boats\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\OceanPlugin.generated.cpp.obj"
+"C:\Program Files (x86)\Epic Games\4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\PCLaunch.rc.res"
+"C:\Program Files (x86)\Epic Games\4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal\Boats\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin-4598.lib"
