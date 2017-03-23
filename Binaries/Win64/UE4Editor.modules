@@ -1,8 +1,8 @@
 {
-	"Changelist" : 3278667,
+	"Changelist" : 3299760,
 	"BuildId" : "",
 	"Modules" : 
 	{
-		"OceanProject" : "UE4Editor-OceanProject-8112.dll"
+		"OceanProject" : "UE4Editor-OceanProject.dll"
 	}
 }
